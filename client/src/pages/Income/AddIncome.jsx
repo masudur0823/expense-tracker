@@ -15,7 +15,7 @@ function AddIncome() {
   };
   return (
     <>
-      <Title text="Income" />
+      <Title text="Add Income" />
       <Stack
         direction={{ md: "row", sm: "column" }}
         spacing={2}
